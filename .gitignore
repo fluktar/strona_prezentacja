@@ -1,0 +1,11 @@
+/node_modules
+/html
+/src
+/boot_1
+/boot_2
+/pro_game
+/Strona_GRID
+/T_P
+gulpfiles.js
+package.json
+package-lock.json
